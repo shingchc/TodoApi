@@ -44,3 +44,4 @@ C:\Users\sccha\OneDrive\Documents\GitHub\TodoApi\bin\Debug\net8.0\YamlDotNet.dll
 C:\Users\sccha\OneDrive\Documents\GitHub\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
 C:\Users\sccha\OneDrive\Documents\GitHub\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\sccha\OneDrive\Documents\GitHub\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\sccha\OneDrive\Documents\GitHub\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
